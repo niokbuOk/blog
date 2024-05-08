@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Feel free to reach out to me for any inquiries or just to say hello!
+I'm a computer science student who aspires for freedom and enjoys exploring the digital realm.
+
 
 ### More Information
 
