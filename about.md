@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Feel free to reach out to me for any inquiries or just to say hello!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Feel free to reach out to me for any inquiries or just to say hello!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yellowhao68@gmail.com](mailto:yellowhao68@gmail.com)
